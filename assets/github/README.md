@@ -14,5 +14,3 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - Git e Github
 
 ## Contato
-
-[euandrejesus@gmail.com](mailto:euandrejesus@gmail.com)
