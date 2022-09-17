@@ -1,6 +1,7 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./preview.png)
+![preview](./github/preview.png)
+
 > Trilha Explorer
 
 Projeto construído no evento Next Level Week da Rocketseat.
@@ -14,5 +15,3 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - Git e Github
 
 ## Contato
-
-[euandrejesus@gmail.com](mailto:euandrejesus@gmail.com)
